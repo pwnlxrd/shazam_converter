@@ -1,0 +1,4 @@
+shazamio
+mp3_tagger
+argparse
+asyncio
